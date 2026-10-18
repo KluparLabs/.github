@@ -10,6 +10,10 @@ Use GitHub's private vulnerability reporting on the affected repository
 issue. Say what you found, where, and how to reproduce it. Expect an
 acknowledgement within seven days.
 
+Private vulnerability reporting is available on KluparLabs public
+repositories, which is where an outside reporter can see code. Private
+repositories are covered by the same policy internally.
+
 ## What we promise
 
 - A committed or leaked secret is rotated, not just deleted.
